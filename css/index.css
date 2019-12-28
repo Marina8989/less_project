@@ -1,0 +1,17 @@
+.displayFlex {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+nav a {
+  text-decoration: none;
+  color: #120f0f;
+}
+nav a:hover {
+  color: #ff274d;
+}
